@@ -1,0 +1,2 @@
+# infomation
+kittengineが提供するアプリのプライバシーポリシーを掲載
